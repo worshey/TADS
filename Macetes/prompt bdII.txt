@@ -1,0 +1,60 @@
+insert into tregiao(dsRegiao)values
+('Sudeste'),
+('Nordeste'),
+('Sul');
+
+insert into tuf(nm_uf,sg_uf)values
+('São Paulo','SP'),
+('Minas Gerais','MG'),
+('Rio de Janeiro','RJ'),
+('Bahia','BA'),
+('Pernambuco','PE'),
+('Ceará','CE'),
+('Paraná','PR'),
+('Santa Catarina','SC'),
+('Rio Grande do Sul','RS');
+
+insert into tcidade(nm_cidade)values
+('São Paulo'),
+('Campinas'),
+('Santos'),
+('Ribeirão Preto'),
+('Sorocaba'),
+('Belo Horizonte'),
+('Uberlândia'),
+('Contagem'),
+(' Juiz de Fora'),
+('Montes Claros'),
+('Salvador'),
+('Feira de Santana'),
+('Vitória da COnquista'),
+('Ilhéus'),
+('Barreiras'),
+('Recife'),
+('Olinda'),
+('Caruaru'),
+('Petrolina'),
+('Garanhuns'),
+('Fortaleza'),
+('Sobral'),
+('Juazeiro do Norte'),
+('Maracanaú'),
+('Crato'),
+('Curitiba'),
+('Londrina'),
+('Maringá'),
+('Foz do Iguaçu'),
+('Cascavel'),
+('Florianópolis'),
+('Joinvile'),
+('Blumenau'),
+('Chapecó'),
+('Criciúma'),
+('Porto Alegre'),
+('Caxias do Sul'),
+('Pelotas'),
+('Santa Maria'),
+('Júlio de Castilhos');
+
+
+select * from tuf;
