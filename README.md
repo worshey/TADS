@@ -29,7 +29,7 @@ Este repositório foi forjado nas profundezas do curso de **Tecnologia em Análi
 
 Este repositório foi criado com fins acadêmicos, servindo como um guia para estudantes navegarem pelas águas turbulentas da programação. Com uma abordagem divertida e temática, espero tornar o seu aprendizado mais envolvente e menos assustador.
 
-"Eis aqui, o surgimento do repositório lendário dos estudantes de TADS!"
+"Eis aqui o surgimento do repositório lendário dos estudantes de TADS!"
 ---
 
 
