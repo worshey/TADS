@@ -1,6 +1,6 @@
 <div align="center">
   <img src="Marin_Kitagawa_automate_the_boring_stuff_with_python.png" width="700" alt="Marin com o livro de Python"/>
-  <h1>✨ Repositório TADS: A Jornada do Protagonista Acadêmico ✨</h1>
+  <h1>✨A Jornada do Protagonista Acadêmico ✨</h1>
   <p>🎓- Se você é um estudante de TADS ou apenas um entusiasta da programação com uma queda por temas de anime, este repositório é para você. Bora codar? </p>
 </div>
 
