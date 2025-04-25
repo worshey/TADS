@@ -9,7 +9,7 @@
 ## 💡 Sobre
 
 Este repositório foi forjado nas profundezas do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no IFG – Câmpus Jataí. Aqui, armazenamos **conhecimento, práticas e "macetes"** que fazem parte da **saga acadêmica** do caba que tenta tankar *POO*, *SQL*, *Web*, *Java* e *Python*.
->  "A cada commit mais xp"  
+>A cada commit mais xp
 
 ---
 
@@ -29,7 +29,7 @@ Este repositório foi forjado nas profundezas do curso de **Tecnologia em Análi
 
 Este repositório foi criado com fins acadêmicos, servindo como um guia para estudantes navegarem pelas águas turbulentas da programação.
 
-"Eis aqui o surgimento do repositório lendário dos estudantes de TADS!"
+Eis aqui o surgimento do repositório lendário dos estudantes de TADS!
 ---
 
 
