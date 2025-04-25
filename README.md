@@ -18,7 +18,6 @@ Este repositório foi forjado nas profundezas do curso de **Tecnologia em Análi
 | 🌟 Seção | 💬 Descrição |
 |--------|-------------|
 | [Macetes](https://github.com/worshey/TADS/tree/main/Macetes) | Dicas e truques para dominar as artes ocultas da programação.
-| [Engenharia de Software II](https://github.com/worshey/TADS/tree/main/Engenharia%20de%20Software%20II) | Missões focadas em **Programação Orientada a Objetos (POO)**, com muitas classes e heranças para enfrentar.
 | [Estrutura de Dados](https://github.com/worshey/TADS/tree/main/Estrutura%20de%20Dados) | Introdução à estrutura de dados, onde você aprende a invocar arrays e listas ligadas como se fossem feitiços!
 | [CodeBlocks ou VS Code?](https://github.com/worshey/TADS/tree/main/CodeBlocks%20ou%20VS%20Code%3F) | A eterna batalha entre IDEs — escolha seu lado, jovem padawan.
 
