@@ -1,7 +1,7 @@
 <div align="center">
   <img src="Marin_Kitagawa_automate_the_boring_stuff_with_python.png" width="700" alt="Marin com o livro de Python"/>
   <h1>✨A Jornada do Protagonista Acadêmico ✨</h1>
-  <p>🎓- Se você é um estudante de TADS ou apenas um entusiasta da programação com uma queda por temas de anime, este repositório é para você. Bora codar? </p>
+  <p>Se você é um estudante de TADS ou apenas um entusiasta da programação com uma queda por temas de anime, este repositório é para você. Bora codar? </p>
 </div>
 
 ---
@@ -31,7 +31,7 @@ Este repositório foi forjado nas profundezas do curso de **Tecnologia em Análi
 
 Este repositório foi criado com fins acadêmicos, servindo como um guia para estudantes navegarem pelas águas turbulentas da programação. Com uma abordagem divertida e temática, espero tornar o seu aprendizado mais envolvente e menos assustador.
 
-"Em um mundo onde bugs são vilões e códigos são feitiços, surge o repositório lendário dos estudantes de TADS!" 🧙‍♀️
+"Em um mundo onde bugs são vilões e códigos são feitiços, surge o repositório lendário dos estudantes de TADS!"
 ---
 
 
