@@ -8,8 +8,7 @@
 
 ## 💡 Sobre
 
-Este repositório foi forjado nas profundezas do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no IFG – Câmpus Jataí. Aqui, armazenamos **conhecimento, práticas e "macetes"** que fazem parte da **saga acadêmica** do caba que tanka *POO*, *SQL*, *Web*, *Java*, *Python* e muito mais!
-
+Este repositório foi forjado nas profundezas do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** no IFG – Câmpus Jataí. Aqui, armazenamos **conhecimento, práticas e "macetes"** que fazem parte da **saga acadêmica** do caba que tenta tankar *POO*, *SQL*, *Web*, *Java*, *Python*.
 >  "A cada commit mais xp"  
 
 ---
