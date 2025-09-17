@@ -19,7 +19,10 @@ Este repositório foi forjado nas profundezas do curso de **Tecnologia em Análi
 |--------|-------------|
 | [Macetes](https://github.com/worshey/TADS/tree/main/Macetes) | Dicas e truques para dominar as artes ocultas da programação.
 | [Estrutura de Dados](https://github.com/worshey/TADS/tree/main/Estrutura%20de%20Dados) | Introdução à estrutura de dados, onde você aprende a invocar arrays e listas ligadas como se fossem feitiços!
-| [CodeBlocks ou VS Code?](https://github.com/worshey/TADS/tree/main/CodeBlocks%20ou%20VS%20Code%3F) | Escolha seu lado, jovem padawan.
+| [Programação I](https://github.com/worshey/TADS/tree/main/Programa%C3%A7%C3%A3o%20I/primeiroProjeto/primeiroCodigo) | Escolha seu lado, jovem padawan.
+| [Programação WEB I](https://github.com/worshey/TADS/tree/main/Programa%C3%A7%C3%A3o%20I/primeiroProjeto/primeiroCodigo) | Escolha seu lado, jovem padawan.
+|[Programação I](https://github.com/worshey/TADS/tree/main/Programa%C3%A7%C3%A3o%20I/primeiroProjeto/primeiroCodigo) | Escolha seu lado, jovem padawan.
+|[PI IV](https://github.com/worshey/TADS/tree/main/Programa%C3%A7%C3%A3o%20I/primeiroProjeto/primeiroCodigo) | Escolha seu lado, jovem padawan.
 
 ---
 
