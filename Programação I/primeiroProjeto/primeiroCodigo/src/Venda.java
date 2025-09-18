@@ -4,6 +4,7 @@ public class Venda {
     private LocalDate data;
     private Double valorTotal;
     private Produto produto;
+    private Integer numeroVenda;
    
     public LocalDate getData() {
         return data;
@@ -22,6 +23,12 @@ public class Venda {
     }
     public void setProduto(Produto produto) {
         this.produto = produto;
+    }
+    public Integer getNumeroVenda() {
+        return numeroVenda;
+    }
+    public void setNumeroVenda(Integer numeroVenda) {
+        this.numeroVenda = numeroVenda;
     }
     
 }
