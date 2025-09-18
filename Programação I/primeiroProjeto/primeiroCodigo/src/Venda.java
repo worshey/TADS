@@ -31,4 +31,19 @@ public class Venda {
         this.numeroVenda = numeroVenda;
     }
     
+    
+
+    public void ImprimirVenda(){
+        System.out.println("--------------------DADOS DA VENDA--------------------");
+        System.out.println("Número da venda: " +getNumeroVenda());
+        
+        System.out.println("Data da venda: " +getData());
+
+        System.out.println("--------------------DADOS DO PRODUTO--------------------");
+        System.out.println("Produto Vendido: " +getProduto().getNome());
+        System.out.println("Marca: " +getProduto().getMarca());
+        System.out.println("Preço: " +getProduto().getPreco());
+        System.out.println("Quantidade em estoque: " +getProduto().getQtde());
+        System.out.println("========================================================");
+    }
 }

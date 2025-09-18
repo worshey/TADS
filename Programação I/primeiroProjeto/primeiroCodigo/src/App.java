@@ -19,15 +19,7 @@ public class App {
         venda.setNumeroVenda(1123);
         venda.setProduto(produto);
 
-        System.out.println("Data da venda: " + venda.getData());
-        System.out.println("Número da venda: " + venda.getNumeroVenda());
-
-        System.out.println("====================DADOS DO PRODUTO====================");
-        System.out.println("Produto Vendido: " + venda.getProduto().getNome());
-        System.out.println("Marca: " + venda.getProduto().getMarca());
-        System.out.println("Preço: " + venda.getProduto().getPreco());
-        System.out.println("Quantidade em estoque: " + venda.getProduto().getQtde());
-        System.out.println("========================================================");
+        venda.ImprimirVenda();
 
     }
 
