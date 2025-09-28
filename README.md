@@ -22,7 +22,6 @@ Este repositório foi forjado nas profundezas do curso de **Tecnologia em Análi
 | [Programação I](https://github.com/worshey/TADS/tree/main/Programa%C3%A7%C3%A3o%20I) | Escolha seu lado, jovem padawan.
 | [Programação WEB I](https://github.com/worshey/TADS/tree/main/Programa%C3%A7%C3%A3o%20WEB%20I) | Só o básico ainda, não temos tantas cores
 | [Análise de Sistemas I](https://github.com/worshey/TADS/tree/main/An%C3%A1lise%20de%20Sistemas%20I) | Um bom sistema tende a ser estruturado
-| [PI IV](https://github.com/worshey/TADS/tree/main/PI%20IV) | Pré TCC
 
 ---
 
