@@ -17,7 +17,6 @@ Este repositório foi forjado nas profundezas do curso de **Tecnologia em Análi
 | 🌟 Seção | 💬 Descrição |
 |--------|-------------|
 | [Macetes](https://github.com/worshey/TADS/tree/main/Macetes) | Dicas e truques para dominar as artes ocultas da programação.
-| [Estrutura de Dados](https://github.com/worshey/TADS/tree/main/Estrutura%20de%20Dados) | Introdução à estrutura de dados, onde você aprende a invocar arrays e listas ligadas como se fossem feitiços!
 | [Programação I](https://github.com/worshey/TADS/tree/main/Programa%C3%A7%C3%A3o%20I) | Escolha seu lado, jovem padawan.
 | [Programação WEB I](https://github.com/worshey/TADS/tree/main/Programa%C3%A7%C3%A3o%20WEB%20I) | Só o básico ainda, não temos tantas cores
 | [Análise de Sistemas I](https://github.com/worshey/TADS/tree/main/An%C3%A1lise%20de%20Sistemas%20I) | Um bom sistema tende a ser estruturado
