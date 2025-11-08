@@ -8,6 +8,6 @@ O espaço de trabalho contém duas pastas por padrão, onde:
 - `src`: a pasta que mantém o código fonte
 - `lib`: a pasta que mantém as dependências
 
+## Diagrama
 
-
-## O diagrama da atividade se encontra no projeto
+  <img src="diagrama.png" alt="diagrama">
