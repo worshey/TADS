@@ -1,0 +1,19 @@
+scrum:
+
+ágil no sentido de comunicação com o cliente
+
+backlog -> lista de tarefas
+sprints -> tempo limitado p/ realiza uma lista de tarefas. 2 a 3 semanas
+p.o -> gerente do projeto / entende do domínio de negócios
+scrum master -> "mestre de obras"
+sprint review -> reunião da sprint que acabou
+daily -> interação diária para alinhamento com a equipe
+sprint planning -> planejar a próxima sprint
+
+
+
+Levantamento de Requisito 
+-> 
+Análise de Requisito 
+-> 
+Validação de Requisitos { Protótipo, Diagrama de Caso de Uso}
