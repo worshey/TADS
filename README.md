@@ -1,5 +1,5 @@
 <div align="center">
-![](TADS/imagem/icon.jpg)
+![](Imagem\icon.jpg)
   <h1>✨A Jornada do Protagonista Acadêmico ✨</h1>
   <p>Se você é um estudante de TADS ou apenas um entusiasta da programação com uma queda por temas de anime, este repositório é para você. Bora codar? </p>
 </div>
