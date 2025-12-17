@@ -8,3 +8,4 @@ O espaço de trabalho contém duas pastas por padrão, onde:
 ## Diagrama
 
   <img src="diagrama.png" alt="diagrama">
+   <img src="banco.jpeg" alt="bd">
