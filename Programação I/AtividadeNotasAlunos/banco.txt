@@ -1,0 +1,72 @@
+-- Tabela Mãe (Herança)
+CREATE TABLE pessoa (
+    id SERIAL PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    endereco VARCHAR(200),
+    telefone VARCHAR(20),
+    email VARCHAR(100)
+);
+
+-- Professor herda de Pessoa
+CREATE TABLE professor (
+    id SERIAL PRIMARY KEY,
+    id_pessoa INT NOT NULL, -- Chave estrangeira para Pessoa
+    matricula VARCHAR(50) UNIQUE NOT NULL,
+    FOREIGN KEY (id_pessoa) REFERENCES pessoa(id) ON DELETE CASCADE
+);
+
+-- Aluno herda de Pessoa
+CREATE TABLE aluno (
+    id SERIAL PRIMARY KEY,
+    id_pessoa INT NOT NULL, -- Chave estrangeira para Pessoa
+    matricula VARCHAR(10) UNIQUE NOT NULL, -- Regra: 10 caracteres
+    nome_pai VARCHAR(100),
+    nome_mae VARCHAR(100),
+    FOREIGN KEY (id_pessoa) REFERENCES pessoa(id) ON DELETE CASCADE
+);
+
+CREATE TABLE periodo (
+    id SERIAL PRIMARY KEY,
+    nome_periodo VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE turma (
+    id SERIAL PRIMARY KEY,
+    nome_turma VARCHAR(50) NOT NULL
+);
+
+CREATE TABLE disciplina (
+    id SERIAL PRIMARY KEY,
+    nome_disciplina VARCHAR(100) NOT NULL,
+    id_professor INT REFERENCES professor(id) -- Associação Professor -> Disciplina
+);
+
+-- O Diário conecta tudo (Aluno, Turma, Disciplina, Periodo)
+CREATE TABLE diario (
+    id SERIAL PRIMARY KEY,
+    status BOOLEAN DEFAULT TRUE,
+    id_aluno INT REFERENCES aluno(id),
+    id_disciplina INT REFERENCES disciplina(id),
+    id_turma INT REFERENCES turma(id),
+    id_periodo INT REFERENCES periodo(id)
+);
+
+-- A Nota pertence a um registro no Diário
+CREATE TABLE nota (
+    id SERIAL PRIMARY KEY,
+    valor_nota DOUBLE PRECISION NOT NULL, -- Usei 'valor_nota' pois 'nota' é nome da tabela
+    id_diario INT REFERENCES diario(id)
+);
+-- 1. Permitir que apagar um ALUNO apague automaticamente os registros no DIÁRIO
+ALTER TABLE diario DROP CONSTRAINT diario_id_aluno_fkey;
+ALTER TABLE diario 
+    ADD CONSTRAINT diario_id_aluno_fkey 
+    FOREIGN KEY (id_aluno) REFERENCES aluno(id) ON DELETE CASCADE;
+
+-- 2. Permitir que apagar um DIÁRIO apague automaticamente as NOTAS
+-- (Isso é necessário porque ao apagar o aluno, o banco tenta apagar o diário, 
+-- e o diário não pode ser apagado se tiver notas presas a ele, a menos que tenhamos cascade aqui também)
+ALTER TABLE nota DROP CONSTRAINT nota_id_diario_fkey;
+ALTER TABLE nota 
+    ADD CONSTRAINT nota_id_diario_fkey 
+    FOREIGN KEY (id_diario) REFERENCES diario(id) ON DELETE CASCADE;
