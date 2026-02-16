@@ -11,13 +11,17 @@ Este guia detalhado te leva passo a passo pela instalação e configuração de 
 
 ## 2. Instalando o Java
 * **Passo 3:** Instale o Java -> brew install --cask temurin
-*  (confirme se instalou java -version)
+*  (confirme se instalou: java -version)
 
-## 3. Instalando a IDE
+## 2. Instalando o Git
+* **Passo 3:** Instale o Git -> brew install git
+*  (confirme se instalou: git -version)
 
-* **Passo 4:** Instale o IntelliJ -> brew install --cask intellij-idea-ce
+## 4. Instalando a IDE
+
+* **Passo 5:** Instale o IntelliJ -> brew install --cask intellij-idea-ce
 *  Nota: 'ce' significa Community Edition (gratuita).
 
 
-* **Passo 5:** Instale o VSCode -> brew install --cask visual-studio-code
+* **Passo 6:** Instale o VSCode -> brew install --cask visual-studio-code
 * Nota: No VSCode, você precisará instalar o extension pack for java da microsoft quando abrir o programa pela primeira vez.
