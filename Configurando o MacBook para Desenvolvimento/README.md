@@ -13,8 +13,8 @@ Este guia detalhado te leva passo a passo pela instalação e configuração de 
 * **Passo 3:** Instale o Java -> brew install --cask temurin
 *  (confirme se instalou: java -version)
 
-## 2. Instalando o Git
-* **Passo 3:** Instale o Git -> brew install git
+## 3. Instalando o Git
+* **Passo 4:** Instale o Git -> brew install git
 *  (confirme se instalou: git -version)
 
 ## 4. Instalando a IDE
