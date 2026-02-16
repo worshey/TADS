@@ -16,7 +16,7 @@ Este guia detalhado te leva passo a passo pela instalação e configuração de 
 ## 3. Instalando a IDE
 
 * **Passo 4:** Instale o IntelliJ -> brew install --cask intellij-idea-ce
-*  Nota: 'ce' significa Community Edition (gratuita)
+*  Nota: 'ce' significa Community Edition (gratuita).
 
 
 * **Passo 5:** Instale o VSCode -> brew install --cask visual-studio-code
